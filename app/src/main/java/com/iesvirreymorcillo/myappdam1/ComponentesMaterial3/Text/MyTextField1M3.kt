@@ -39,5 +39,6 @@ fun MyTextFieldApellido1(user: String, onUserChange: (String) -> Unit) {
 @Composable
 fun MyTextFieldApellido2(user: String, onUserChange: (String) -> Unit) {
     TextField(value = user, onValueChange = { onUserChange(it) },
-        placeholder = { Text("Introduce tu segundo apellido") })
+        placeholder = { Text("Introduce tu segundo apellido") },
+        label = { Text("Apellido 2") })
 }

@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.Text.MyTextField1M3
+import com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.Text.MyTextField4M3
 import com.iesvirreymorcillo.myappdam1.ui.theme.MyAppDam1Theme
 
 class MainActivity : ComponentActivity() {
@@ -29,8 +29,12 @@ class MainActivity : ComponentActivity() {
                     //MyText1M3()
                     //MyText1M3(Modifier.padding(innerPadding).background(Color.Red))
                     //MyText1M3(Modifier.padding(innerPadding))
+                    //MyText2M3(Modifier.padding(innerPadding))
                     //MyTextField0M3(Modifier.padding(innerPadding))
-                    MyTextField1M3(Modifier.padding(innerPadding))
+                   // MyTextField1M3(Modifier.padding(innerPadding))
+                    //MyTextField2M3(Modifier.padding(innerPadding))
+                    //MyTextField3M3(Modifier.padding(innerPadding))
+                    MyTextField4M3(Modifier.padding(innerPadding))
 
                 }
             }
