@@ -76,14 +76,20 @@ fun MyText2M3(modifier: Modifier) {
         Text(
             modifier = Modifier.fillMaxWidth().background(Color.Yellow),
             //Cuidado con .fillMaxSize() en este tipo de componentes
-            text = "CentrDFDFDo",
+            text = "Centro",
             textAlign = TextAlign.Center
         )
 
         Text(
             modifier = Modifier.fillMaxWidth().background(Color.Yellow),
-            text = "CentroSSS",
+            text = "Izquierda",
             textAlign = TextAlign.Start
+        )
+
+        Text(
+            modifier = Modifier.fillMaxWidth().background(Color.Yellow),
+            text = "Derecha",
+            textAlign = TextAlign.End
         )
 
     }

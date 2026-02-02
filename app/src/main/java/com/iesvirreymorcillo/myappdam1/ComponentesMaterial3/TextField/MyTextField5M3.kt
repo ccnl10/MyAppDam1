@@ -20,6 +20,7 @@ fun MyTextField5M3(modifier: Modifier) {
     var nombre by rememberSaveable() { mutableStateOf("") }
 
     Column(modifier = modifier) {
+
         MyOutlinedTextField2 (user = nombre) {nombre= it}
     }
 

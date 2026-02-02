@@ -25,7 +25,7 @@ fun MyTextField2M3(modifier: Modifier) {
 fun MyAdvanceTextField(value: String, onValueChange: (String) -> Unit) {
     TextField(value, onValueChange={
         if (it.contains("a")){
-            onValueChange(it.replace("a",""))
+            onValueChange(it.replace("ap",""))
             }else{
             onValueChange(it)
         }

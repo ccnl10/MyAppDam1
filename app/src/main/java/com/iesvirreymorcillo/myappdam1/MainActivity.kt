@@ -26,14 +26,6 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.padding(innerPadding)
                     )*/
 
-                    //MyText1M3()
-                    //MyText1M3(Modifier.padding(innerPadding).background(Color.Red))
-                    //MyText1M3(Modifier.padding(innerPadding))
-                    //MyText2M3(Modifier.padding(innerPadding))
-                    //MyTextField0M3(Modifier.padding(innerPadding))
-                   // MyTextField1M3(Modifier.padding(innerPadding))
-                    //MyTextField2M3(Modifier.padding(innerPadding))
-                    //MyTextField3M3(Modifier.padding(innerPadding))
                     MyTextField4M3(Modifier.padding(innerPadding))
 
                 }
