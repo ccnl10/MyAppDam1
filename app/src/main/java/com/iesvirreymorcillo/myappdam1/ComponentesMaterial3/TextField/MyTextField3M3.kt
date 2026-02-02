@@ -1,4 +1,4 @@
-package com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.Text
+package com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.TextField
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column

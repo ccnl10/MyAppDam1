@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.Text.MyTextField4M3
+import com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.TextField.MyTextField4M3
 import com.iesvirreymorcillo.myappdam1.ui.theme.MyAppDam1Theme
 
 class MainActivity : ComponentActivity() {
