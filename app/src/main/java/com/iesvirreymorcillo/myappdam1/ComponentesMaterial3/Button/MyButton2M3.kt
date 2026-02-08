@@ -15,10 +15,11 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 
 /* OTROS BOTONES */
+
 @Composable
 fun MyButton2M3(modifier: Modifier) {
 
-    Column(modifier = modifier.padding(16.dp)) {
+    Column(modifier = modifier.padding(start = 16.dp)) {
 
         /* Button
          * Botón normal por defecto

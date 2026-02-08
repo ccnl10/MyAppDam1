@@ -13,19 +13,19 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="MyEstado2Preview">
+      <SelectionState runConfigName="MyButton2M3">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MyEstado1Preview">
+      <SelectionState runConfigName="MyImage1M3">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MyStateHoisting0Preview">
+      <SelectionState runConfigName="E1MyButton">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MyStateHoisting2Preview">
+      <SelectionState runConfigName="MyImage2M3">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MyStateHoisting3Preview">
+      <SelectionState runConfigName="MyIcon0M3">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

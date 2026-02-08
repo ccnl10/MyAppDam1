@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.Button.MyButton0M3
+import com.iesvirreymorcillo.myappdam1.ComponentesMaterial3.Button.MyButton1M3
 import com.iesvirreymorcillo.myappdam1.ui.theme.MyAppDam1Theme
 
 class MainActivity : ComponentActivity() {
@@ -25,10 +25,13 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )*/
+                   // MyTextFieldEjercicio2M3(Modifier.padding(innerPadding))
 
-                     MyButton0M3(Modifier.padding(innerPadding))
-                   //MyButton1M3(Modifier.padding(innerPadding))
-                   // MyButton2M3(Modifier.padding(innerPadding))
+
+                  MyButton1M3(Modifier.padding(innerPadding))
+                   //MyButton2M3(Modifier.padding(innerPadding))
+                  //  MyImage1M3()
+
 
                 }
             }
