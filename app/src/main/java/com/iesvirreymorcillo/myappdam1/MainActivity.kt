@@ -25,12 +25,9 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )*/
-                   // MyTextFieldEjercicio2M3(Modifier.padding(innerPadding))
 
-
-                  MyButton1M3(Modifier.padding(innerPadding))
+                   MyButton1M3(Modifier.padding(innerPadding))
                    //MyButton2M3(Modifier.padding(innerPadding))
-                  //  MyImage1M3()
 
 
                 }
